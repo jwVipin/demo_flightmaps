@@ -22,7 +22,7 @@ export class MapsComponent implements OnInit {
       style: 'default.json', //hosted style id
       center: [-77.38, 39], // starting position
       zoom: 3, // starting zoom,
-      accessToken: '29f5d580-a7ca-11e9-a2dd-05dd261bdedc'
+      accessToken: ''
     });
   }
 
